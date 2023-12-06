@@ -21,7 +21,8 @@
         "Matthew Little",
         "vekexasia",
         "TheSeven",
-        "joshuayabut"
+        "joshuayabut",
+        "fekt"
     ],
     "main": "lib/index.js",
     "repository": {
@@ -34,7 +35,7 @@
         "bignum": "^0.13.1",
         "bitgo-utxo-lib": "github:nullfekt/bitgo-utxo-lib.git",
         "equihashverify": "github:nullfekt/equihashverify.git",
-        "merkle-bitcoin" : "github:webworker01/merkle-bitcoin.git",
+        "merkle-bitcoin" : "github:nullfekt/merkle-bitcoin.git",
         "promise": "^8.0.2",
         "verushash": "github:nullfekt/verushash-node.git"
     },
